@@ -4,6 +4,8 @@
 
 The following repository has implementations of text mining, clustering, graphs and networks, topic modelling codes in R to further categorize the categories of news on BBC.
 
+There are four different codes for a more comprehensive description of the steps performed in each process.
+
 *****************************************************************************
 
 The dataset used is BBC news dataset -- 'bbc-fulltext' (http://mlg.ucd.ie/datasets/bbc.html)
@@ -37,7 +39,3 @@ Note: For inputting the adjacency matrix file into gephi, replace all the ',' to
 *****************************************************************************
 
 Thank you Kailash Awati for the inspiration/code and beautifully explaining concepts in your blog -- https://eight2late.wordpress.com
-
-
-
-
